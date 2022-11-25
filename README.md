@@ -1,1 +1,1 @@
-# Quantum dot Cellular Automata
+# Quantum-dot Cellular Automata (QCA)
